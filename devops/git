@@ -5,4 +5,7 @@ learning a git commands
   git commit
   git push
   git pull
-  
+ learning a github commands
+git remote add origin *github link*
+git push origin master
+git pull *github path* 
